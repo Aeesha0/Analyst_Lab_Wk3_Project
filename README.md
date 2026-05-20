@@ -1,5 +1,6 @@
-AnalystLab Africa — Week 3 SQL & Business Analytics Project
+
 Project Overview
+
 This repository contains the data cleaning, relational database design, and advanced SQL analytical queries executed for the Week 3 project submission. The analysis spans two distinct business datasets:
 
 Global Corporate Sales Dataset: A flat transactional log optimized to identify revenue patterns, macro performance, and inventory velocity.
